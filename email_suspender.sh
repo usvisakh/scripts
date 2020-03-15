@@ -1,3 +1,9 @@
+##########script by visakh############:wq!
+
+
+
+
+
 #!/bin/bash
 
 email_limit=50; #per hour
